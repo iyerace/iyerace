@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi, I’m Arjun Iyer</h1>
 
-<!--
-**iyerace/iyerace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Software engineer based in Delhi, India, building reliable backend systems and practical developer tools.</p>
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I enjoy turning complex systems into simple, dependable software.
+- I’m exploring distributed systems, Go, TypeScript, and cloud infrastructure.
+- I care about readable code, thoughtful APIs, and useful documentation.
+- I’m always learning from open-source projects and sharing what I discover.
+
+## Current focus
+
+Building resilient services, improving developer experience, and learning more about observability and system design.
